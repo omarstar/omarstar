@@ -1,5 +1,5 @@
 # **Omar barakat**
-![business card image](./omar_card.png)
+![profile image](https://github.com/omarstar/Skills_Tree/blob/cv_MD/faceMe.png)
 ### _Full stack web developer_
 
 >📫 _Email:_  obarakat12@gmail.com  
