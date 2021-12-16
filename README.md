@@ -8,8 +8,8 @@
 
 >📫 _Email:_  obarakat12@gmail.com  
 📞 _phone:_  +961 70 397 756  
-
 💼 [my linkedIn page](https://lb.linkedin.com/in/omar-barakat-b20287a3)
+
 _________________
  
 - 👀 I’m interested in expanding my knowledge to become tech lead and CTO in the upcoming years.
@@ -17,7 +17,9 @@ _________________
 - 💞️ in love with React, Angular, javascript, Node, AWS Cloud
 
 ### **Objective:**
-A self-motivated and organized man possess technical, analytical and problem solving skills, including a thorough understanding of how to interpret customer business needs and translate them into application and operational requirements.
+A self-motivated and organized man possess technical, analytical and problem solving skills,\
+including a thorough understanding of how to interpret customer business needs\
+and translate them into application and operational requirements.
 
 | . | **Software skills:** |
 | --- | --- |
@@ -29,6 +31,10 @@ A self-motivated and organized man possess technical, analytical and problem sol
 
 ### **Education:**
 **Bachelor in Computer Science**, Faculty of Science in Beirut Arab University in **2011**.
+
+<p align="center"> 
+ >> have a nice day! <<
+</p>
 
 <!---
 Omar Barakat/omarstar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
