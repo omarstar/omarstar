@@ -7,15 +7,15 @@
 
 </br>
 
->📫 _Email:_  obarakat12@gmail.com  
-📞 _phone:_  +961 70 397 756  
+>📫 _Email:_  omarbaraket21@gmail.com  
+📞 _phone:_  +971 55 320 8899  
 💼 [my linkedIn page](https://lb.linkedin.com/in/omar-barakat-b20287a3)
 
 <hr>
 
 - 👀 I’m interested in expanding my knowledge to become tech lead and CTO in the upcoming years.
-- 🌱 I’m currently a junior full stack web developer working with topInterns - Dubai
-- 💞️ in love with React, Angular, javascript, Node, AWS Cloud
+- 🌱 I’m currently a software engineer with 3 years of experience working with companies in Dubai
+- 💞️ in love with React, Angular, javascript, Node, Java spring and AWS Cloud
 
 
 ### **Objective:**
@@ -33,9 +33,10 @@ and translate them into application and operational requirements.
 
 ### **Latest Experience:**
 
-~2021 *TopInterns.io Virtual Internship with Floward.io (contract)*
+~2021 *TopInterns.io Virtual Internship working on real projects with Floward.io and Laimoon.com*
 
 Build and deploy production-ready applications\
+Optimization and unit testing\
 using Angular, React, Engine templates, NodeJs and AWS architect in\
 a Docker container with lambda functions while working with an agile team.
 
